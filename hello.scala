@@ -1,5 +1,5 @@
 object Hello {
   
   def main(args: Array[String]) = 
-    println("Hello sbt")
+    println("Hello sbt tool")
 }
